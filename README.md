@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <strong>MLOps Zoomcamp: A Free 9-Week Course on Productionizing ML Services</strong>
+    <strong>MLOps Zoomcamp Majid: A Free 9-Week Course on Productionizing ML Services</strong>
 </h1>
 
 <p align="center">
@@ -23,7 +23,8 @@ MLOps (machine learning operations) is a must-know skill for many data professio
 <a href="https://ctt.ac/fH67W">Tweet about the Course</a>
 </p>
 
-## How to Take MLOps Zoomcamp
+## How to Take MLOps Zoomcamp Majid  123456666
+
 
 ### 2025 Cohort
 - **Start Date**: May 5, 2025
@@ -44,7 +45,7 @@ To get the most out of this course, you should have prior experience with:
 - Python
 - Docker
 - Command line basics
-- Machine learning (e.g., through [ML Zoomcamp](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
+- Machine learning (e.g., through [ML Zoomcamp    سبسبسبس](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp))
 - 1+ year of programming experience
 
 ## Modules
